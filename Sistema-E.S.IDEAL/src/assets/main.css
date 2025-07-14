@@ -1,0 +1,19 @@
+:root {
+  --color-accent: #000;
+  --color-light: #fff;
+  --color-yellow: #ffde03;
+  --color-red: #ff0266;
+  --color-nosso-azul: #334562;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: white;
+}
